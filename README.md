@@ -1,4 +1,4 @@
-# Automated Guacamole Bastion Installation on All Linux
+# Automated Guacamole Bastion Installation
 
 This script automates the installation process for setting up a Guacamole bastion server on any Linux system. It downloads and installs the necessary components such as Guacamole Server, Tomcat9, MariaDB Server, and configures them for a functional Guacamole setup.
 
