@@ -18,7 +18,7 @@ This script automates the installation process for setting up a Guacamole bastio
 
 ## Installation Instructions
 
-1. Clone the repository or download the `001_Guacamole_Debian-all.bash` script:
+1. Clone the repository or download the `001_Guacamole_Debian-Ubuntu.bash` script:
 
     ```bash
     git clone https://github.com/NANDILLONMaxence/Install_auto_Guacamole
@@ -33,13 +33,13 @@ This script automates the installation process for setting up a Guacamole bastio
 3. Make the script executable:
 
     ```bash
-    chmod +x 001_Guacamole_Debian-all.bash
+    chmod +x 001_Guacamole_Debian-Ubuntu.bash
     ```
 
 4. Run the script:
 
     ```bash
-    ./001_Guacamole_Debian-all.bash
+    ./001_Guacamole_Debian-Ubuntu.bash
     ```
 
 5. Follow the on-screen instructions to complete the Guacamole installation.
